@@ -1,0 +1,11 @@
+.getAway {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.error__message p {
+    font-weight: 500;
+    font-size: 36px;
+    color: #FF6060;
+
+}
