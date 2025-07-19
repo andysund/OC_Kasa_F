@@ -10,7 +10,7 @@ function Banner () {
         </Link>
         <div className="banner__links">
             <Link to="/" className="banner__link">Accueil</Link>
-            <Link to="/about" className="banner__link">A Propos</Link>
+            <Link to="/Apropos" className="banner__link">A Propos</Link>
         </div>
     </nav>
     </>

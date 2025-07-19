@@ -11,7 +11,10 @@
    background-color: white;
    box-shadow: 0,4,4,0;
    margin-bottom: 40px;
-  
+   max-width: 1240px;
+   margin: auto;
+   margin-bottom: 40px;
+
 }
 
 
