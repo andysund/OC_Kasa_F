@@ -3,6 +3,8 @@
     display: flex;
     max-width: 1240px;
     height: 415px;
+    margin: auto;
+    max-width: 1240px;
 }
 
 .houseSlideShow {
